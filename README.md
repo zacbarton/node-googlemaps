@@ -97,6 +97,8 @@ To set the configuration you call `gm.config(key, value)` or `gm.config({key: va
 
 `google-private-key`- used for setting business specific parameters
 
+`google-channel`- used for setting reporting parameters
+
 -------------
 
 All the googlemaps functions follow this scheme:
